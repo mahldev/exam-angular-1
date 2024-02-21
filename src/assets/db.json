@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "salary": 50000,
+      "position": "Senior Developer",
+      "department": "Technology"
+    },
+    {
+      "id": 2,
+      "name": "Emily Johnson",
+      "salary": 60000,
+      "position": "Sales Manager",
+      "department": "Sales"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "salary": 45000,
+      "position": "Data Analyst",
+      "department": "Technology"
+    },
+    {
+      "id": 4,
+      "name": "Jessica Davis",
+      "salary": 55000,
+      "position": "Graphic Designer",
+      "department": "Marketing"
+    }
+  ]
+}
